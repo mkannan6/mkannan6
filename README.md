@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<ul>
+  <li>I'm Manikandan Kannan currently working at Aarini Consulting as a SAP BTP Cloud Architect</li>
+  <li>I have 13+ years of experience working in various domains like sap btp, cap, hana, javascript, python, node.js, backend and data engineering.</li> 
+</ul>
 
-<!--
-**mkannan6/mkannan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect:</h3>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mkkannan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>   
+</div> 
